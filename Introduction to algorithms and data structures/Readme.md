@@ -1,5 +1,7 @@
 # Overview
 
+|[English](https://github.com/sirenexcelsior/SpecialCourse/blob/main/Introduction%20to%20algorithms%20and%20data%20structures/Readme.md)|[Russina](https://github.com/sirenexcelsior/SpecialCourse/blob/main/Introduction%20to%20algorithms%20and%20data%20structures/READMERU.md)|
+
 In this section will be included all solutions to the final task of the special course ["Введение в алгоритмы и структуры данных"](https://scs.math.msu.ru/node/3762).
 
 About the tasks
