@@ -1,6 +1,6 @@
 # Обзор 
 
-|[English](https://github.com/sirenexcelsior/SpecialCourse/blob/main/Introduction%20to%20algorithms%20and%20data%20structures/Readme.md)|[Russina](https://github.com/sirenexcelsior/SpecialCourse/blob/main/Introduction%20to%20algorithms%20and%20data%20structures/READMERU.md)|
+|[English](https://github.com/sirenexcelsior/SpecialCourse/blob/main/Introduction%20to%20algorithms%20and%20data%20structures/Readme.md)|[Русский](https://github.com/sirenexcelsior/SpecialCourse/blob/main/Introduction%20to%20algorithms%20and%20data%20structures/READMERU.md)|
 
 В этом разделе будут представлены все решения финального задания спецкурса ["Введение в алгоритмы и структуры данных"](https://scs.math.msu.ru/node/3762). 
 
